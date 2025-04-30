@@ -4,13 +4,13 @@
 
 At my core, I am a professional with a meticulous eye for detail, adept at connecting the dots and masterfully crafting meaningful information. I am skilled in creating compelling documents, both in text and visuals, to articulate insights that inspire persuasion and conviction, ultimately fostering fruitful relationships.
 I have years of experience in analytics, documentation, and quality assurance and possess certifications. I also possess a diversity of previously held Job roles that have afforded me industry insight across IT, Non-profit, Healthcare, and Education, amongst others.
-I use my specific expertise to work at the intersection of analytics and communications offering specialized services in either or both as needed. 
+I use my specific expertise to work at the intersection of analytics and communications, offering specialized services in either or both as needed. 
 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💼 Job interests:  Job interests: Communications, Analytics, Documentation.
+- 💼 Job interests:  Job interests: Communications, Annotation & QA, Documentation.
 
 - Contact:  yomiadebowale26@gmail.com.
 
